@@ -42,7 +42,7 @@ else:
         Dense,
     )
 
-WEIGHTS_URL="https://github.com/serengil/deepface_models/releases/download/v1.0/arcface_weights.h5"
+WEIGHTS_URL="https://github.com/freakmaxi/deepface_models/releases/download/v1.0/arcface_weights.h5"
 
 # pylint: disable=too-few-public-methods
 class ArcFaceClient(FacialRecognition):

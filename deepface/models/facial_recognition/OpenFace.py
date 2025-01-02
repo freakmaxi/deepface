@@ -24,7 +24,7 @@ else:
 
 # pylint: disable=unnecessary-lambda
 
-WEIGHTS_URL="https://github.com/serengil/deepface_models/releases/download/v1.0/openface_weights.h5"
+WEIGHTS_URL="https://github.com/freakmaxi/deepface_models/releases/download/v1.0/openface_weights.h5"
 
 # ---------------------------------------
 

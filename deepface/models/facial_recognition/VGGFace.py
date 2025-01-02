@@ -39,7 +39,7 @@ else:
 # ---------------------------------------
 
 WEIGHTS_URL = (
-    "https://github.com/serengil/deepface_models/releases/download/v1.0/vgg_face_weights.h5"
+    "https://github.com/freakmaxi/deepface_models/releases/download/v1.0/vgg_face_weights.h5"
 )
 
 # pylint: disable=too-few-public-methods

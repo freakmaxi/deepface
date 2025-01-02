@@ -41,10 +41,10 @@ else:
 
 # pylint:disable=line-too-long
 FACENET128_WEIGHTS = (
-    "https://github.com/serengil/deepface_models/releases/download/v1.0/facenet_weights.h5"
+    "https://github.com/freakmaxi/deepface_models/releases/download/v1.0/facenet_weights.h5"
 )
 FACENET512_WEIGHTS = (
-    "https://github.com/serengil/deepface_models/releases/download/v1.0/facenet512_weights.h5"
+    "https://github.com/freakmaxi/deepface_models/releases/download/v1.0/facenet512_weights.h5"
 )
 
 # --------------------------------

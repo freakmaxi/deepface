@@ -22,7 +22,7 @@ else:
     from tensorflow.keras.models import Model, Sequential
     from tensorflow.keras.layers import Convolution2D, Flatten, Activation
 
-WEIGHTS_URL="https://github.com/serengil/deepface_models/releases/download/v1.0/gender_model_weights.h5"
+WEIGHTS_URL="https://github.com/freakmaxi/deepface_models/releases/download/v1.0/gender_model_weights.h5"
 
 # Labels for the genders that can be detected by the model.
 labels = ["Woman", "Man"]
